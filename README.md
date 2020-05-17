@@ -17,7 +17,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Course | Do FCC [Javascript - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/) |   |    |
-|   | Article | [Overview of HTTP](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) |   |    |
+|   | Article | [Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) |   |    |
 |   | Tutorial | Learn to make network requests with the [Fetch API](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 |   | Course | [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn how to use [React hooks](https://reactjs.org/docs/hooks-intro.html) |   |    |
