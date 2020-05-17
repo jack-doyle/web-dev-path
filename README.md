@@ -24,6 +24,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
 |   | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
+|   | Project | Do FCC [Javascript - ES6](https://www.freecodecamp.org/map) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
 |   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
