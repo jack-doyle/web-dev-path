@@ -51,7 +51,10 @@ This is a guide to learning full-stack web development. It is focused on full-st
 * [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 * [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 * [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-* [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1589710732&sr=8-1) by Robert C. Martin
+* [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1589710732&sr=8-1) (€€€)
+* [Soft Skills: The Software Developer's Life Manual](https://www.amazon.de/Soft-Skills-Software-Developers-Manual/dp/B014QLN6G8/ref=sr_1_1?crid=38DBD3RAXQMGQ&dchild=1&keywords=soft+skills&qid=1589714378&sprefix=soft+skills%2Caps%2C163&sr=8-1) (€€€)
+* [The Effective Engineer](https://www.amazon.de/gp/product/0996128107/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0) (€€€)
+* [Inspired: How to Create Tech Products Customers Love](https://www.amazon.de/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=sr_1_1?dchild=1&keywords=inspired&qid=1589714523&sr=8-1) (€€€)
 
 
 ## Extra Goals
