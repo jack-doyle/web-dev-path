@@ -10,7 +10,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |  | Course |  Shay Howe's [HTML and CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | Do at least two of the FCC [Responsive Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/) |   |    |
 |  | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |    
-|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
+|  | Project | Refactor responsive web design projects' layout and CSS using Flexbox |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git Handbook](https://guides.github.com/introduction/git-handbook/)|   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
@@ -21,7 +21,8 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Course | [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn how to use [React hooks](https://reactjs.org/docs/hooks-intro.html) |   |    |
 |  | Project | Do at least two of the FCC [Front End libraries projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/) using React |   |    |
-|   | Project |  Clone the Netflix interface ([example](https://miro.medium.com/max/1400/1*O_xw-THZGfjNqNhcxcUbxA.png), [example](https://miro.medium.com/max/1400/1*ILNr36C7Caxee5-s62CDoQ.png)) using React + Redux - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
+|   | Article | [Managing application state using React hooks](https://blog.logrocket.com/state-management-using-only-react-hooks/)
+|   | Project |  Clone the Netflix interface ([example](https://miro.medium.com/max/1400/1*O_xw-THZGfjNqNhcxcUbxA.png), [example](https://miro.medium.com/max/1400/1*ILNr36C7Caxee5-s62CDoQ.png)) using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api), and using hooks to manage the app state |   |    |
 
 
 ## Backend (Node.js)
@@ -32,7 +33,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 ## Advanced Topics
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|  | Course | Harvard's [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX covers fundamental Computer Science topics |  ||
+|  | Course | Harvard's [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) on edX covers fundamental Computer Science topics |  ||
 |   | Guide | [Learn Docker](https://docker-curriculum.com/) for containerizing applications  |   |    |
 |   | Guide | Learn about [security, performance, reliability and accessibility](https://web.dev/learn/)  |   |    |
 
@@ -49,6 +50,6 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 
 ## Extra Goals
-* Deploy completed projects using [Github Pages](https://pages.github.com/) or [surge.sh](http://surge.sh/) (Both front-end only) Or [Glitch](https://glitch.com/) (Works with back-end too)
-* Learn how to test your code
-* Learn about linting using [ESLint](https://eslint.org/) for Javascript
+* Deploy a completed project using [Next.js](https://nextjs.org/)
+* Learn how to [test your JavaScript](https://flaviocopes.com/jest/) using [unit, integration and functional tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/). 
+* Learn about using [ESLint](https://eslint.org/) to lint your JavaScript
