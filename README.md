@@ -44,7 +44,6 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 ## Books
 * [Eloquent Javascript](http://eloquentjavascript.net/)
-* [DOM Enlightenment](http://domenlightenment.com/)
 * [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
