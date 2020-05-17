@@ -7,50 +7,34 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | Harvard's [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 |  | Course |  Shay Howe's [HTML and CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
-|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|  | Project | Do at least two of the FCC [Responsive Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/) |   |    |
 |  | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |    
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git Handbook](https://guides.github.com/introduction/git-handbook/)|   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Course | Do FCC [Javascript - ES6](https://www.freecodecamp.org/map) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Tutorial | Learn to make network requests with the [Fetch API](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
+|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
-|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
-|   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
-|   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
-|   | Milestone | FreeCodeCamp Front End Certificate |   |    |
-|   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
-
-
-## React
-
-| Progress | Type | Item | Project(s) | Date |
-|:------:|------|------|------------|:-------:|
+|   | Tutorial | Learn to make network requests with the [Fetch API](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 |   | Course | [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn how to use [React hooks](https://reactjs.org/docs/hooks-intro.html) |   |    |
-|   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
-|   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
+|  | Project | Do at least two of the FCC [Front End libraries projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/) using React |   |    |
+|   | Project |  Clone the Netflix interface ([example](https://miro.medium.com/max/1400/1*O_xw-THZGfjNqNhcxcUbxA.png), [example](https://miro.medium.com/max/1400/1*ILNr36C7Caxee5-s62CDoQ.png)) using React + Redux - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
 
-## Advanced React
-| Progress | Type | Item | Project(s) | Date |
-|:------:|------|------|------------|:-------:|
-|   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
-|   | Project |  Clone the Netflix interface ([example](https://miro.medium.com/max/1400/1*O_xw-THZGfjNqNhcxcUbxA.png), [example](https://miro.medium.com/max/1400/1*ILNr36C7Caxee5-s62CDoQ.png)) using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
-|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
 
-## Backend (Node)
+## Backend (Node.js)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
 |   | Course | FCC [APIs and Microservices Certificate](https://www.freecodecamp.org/learn/) |   |    |
+
+## Advanced Topics
+| Progress | Type | Item | Project(s) | Date |
+|:------:|------|------|------------|:-------:|
+|  | Course | Harvard's [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX covers fundamental Computer Science topics |  ||
+|   | Guide | [Learn Docker](https://docker-curriculum.com/) for containerizing applications  |   |    |
+|   | Guide | Learn about [security, performance, reliability and accessibility](https://web.dev/learn/)  |   |    |
 
 ## Books
 * [Eloquent Javascript](http://eloquentjavascript.net/)
