@@ -47,6 +47,14 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Guide | [Learn Docker](https://docker-curriculum.com/) for containerizing applications  |   |    |
 |   | Guide | Learn about [security, performance, reliability and accessibility](https://web.dev/learn/)  |   |    |
 
+## Common tools and libraries
+These are things that are widely used - a good idea to learn at some point, but can wait until after the above.
+
+* [Styled Components](https://styled-components.com/) - used for styling in the context of React
+* [Jest](https://jestjs.io/) - testing framework
+* [ESLint](https://eslint.org/) - code linting
+* [Next.js](https://nextjs.org/) - React framework
+
 ## Books
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
@@ -62,6 +70,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 
 ## Extra Goals
-* Deploy a completed project using [Next.js](https://nextjs.org/)
+* Deploy a frontend project using [Next.js](https://nextjs.org/)
+* Deploy a full-stack project using [Heroku](https://www.heroku.com/) (see [this guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment))
 * Learn how to [test your JavaScript](https://flaviocopes.com/jest/) using [unit, integration and functional tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/). 
-* Learn about using [ESLint](https://eslint.org/) to lint your JavaScript
+
