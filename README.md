@@ -7,6 +7,9 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
+|  | Article | [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) | | |
+|  | Article | [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) | | |
+|  | Article | [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards) | | 
 |  | Task | Download and install [VS Code](https://code.visualstudio.com/Download) | | |
 |  | Course |  Shay Howe's [HTML and CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | Do at least two of the FCC [Responsive Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/) |   |    |
