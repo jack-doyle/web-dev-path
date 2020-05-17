@@ -15,9 +15,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |    
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 |  | Project | Make a todo list webapp |   |    |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
@@ -33,12 +31,6 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
-|   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
-|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
-|   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
-|   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
-|   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
-|   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
 
 
 ## React
@@ -67,6 +59,16 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |   | Project | FCC Backend Project- [Manage a Book Trading Club](https://www.freecodecamp.com/challenges/manage-a-book-trading-club) |   |    |
 |   | Project | FCC Backend Project- [Build a Pinterest Clone](https://www.freecodecamp.com/challenges/build-a-pinterest-clone) |   |    |
 |   | Milestone | FreeCodeCamp BackEnd certificate |   |    |
+
+## Books
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [DOM Enlightenment](http://domenlightenment.com/)
+* [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+* [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+* [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+* [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+* [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+* [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
 
 ## Extra Goals
