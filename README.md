@@ -7,6 +7,7 @@ This is a guide to learning full-stack web development. It is focused on full-st
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
+|  | Task | Download and install [VS Code](https://code.visualstudio.com/Download) | | |
 |  | Course |  Shay Howe's [HTML and CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | Do at least two of the FCC [Responsive Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/) |   |    |
 |  | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |    
