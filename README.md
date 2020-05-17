@@ -14,21 +14,26 @@ This is a guide to learning full-stack web development. It is focused on full-st
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git Handbook](https://guides.github.com/introduction/git-handbook/)|   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
-|   | Course | Do FCC [Javascript - ES6](https://www.freecodecamp.org/map) |   |    |
+|   | Course | Do FCC [Javascript - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) |   |    |
-|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/) |   |    |
 |   | Tutorial | Learn to make network requests with the [Fetch API](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 |   | Course | [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn how to use [React hooks](https://reactjs.org/docs/hooks-intro.html) |   |    |
 |  | Project | Do at least two of the FCC [Front End libraries projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/) using React |   |    |
 |   | Article | [Managing application state using React hooks](https://blog.logrocket.com/state-management-using-only-react-hooks/)
 |   | Project |  Clone the Netflix interface ([example](https://miro.medium.com/max/1400/1*O_xw-THZGfjNqNhcxcUbxA.png), [example](https://miro.medium.com/max/1400/1*ILNr36C7Caxee5-s62CDoQ.png)) using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api), and using hooks to manage the app state |   |    |
+|   | Milestone | :tada: Frontend Path :white_check_mark: :tada: |   |    |
 
 
 ## Backend (Node.js)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | FCC [APIs and Microservices Certificate](https://www.freecodecamp.org/learn/) |   |    |
+|   | Course | FCC [Managing packages with NPM](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/) |   |    |
+|   | Course | FCC [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/) |   |    |
+|   | Course | FCC [MongoDB and Mongoose](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/) |   |    |
+|  | Project | Do at least two of the FCC [APIs and Microservices projects](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/) |   |    |
+|   | Milestone | :tada: Backend Path :white_check_mark: :tada: |   |    |
 
 ## Advanced Topics
 | Progress | Type | Item | Project(s) | Date |
