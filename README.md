@@ -71,6 +71,6 @@ These are things that are widely used - a good idea to learn at some point, but 
 
 ## Extra Goals
 * Deploy a frontend project using [Next.js](https://nextjs.org/)
-* Deploy a full-stack project using [Heroku](https://www.heroku.com/) (see [this guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment))
+* Deploy a full-stack project to [Heroku](https://www.heroku.com/) (see [this guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment))
 * Learn how to [test your JavaScript](https://flaviocopes.com/jest/) using [unit, integration and functional tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/). 
 
