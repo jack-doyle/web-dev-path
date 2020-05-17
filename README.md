@@ -1,9 +1,7 @@
 # Full Stack Web Developer Path
-This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
+This is a guide to learning full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
 
-------
-
-## [Coding log](log.md)
+-----
 
 ## The Fundamentals
 
